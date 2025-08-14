@@ -1,0 +1,9 @@
+pip install Flask
+python.exe -m pip install --upgrade pip
+pip list
+python -m venv venv
+
+
+
+
+Flask é um framework ou seja um conjunto de ferramentas pra criar sites e APIs no python
