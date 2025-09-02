@@ -7,3 +7,5 @@ python -m venv venv
 
 
 Flask é um framework ou seja um conjunto de ferramentas pra criar sites e APIs no python
+Flask é um framework web para Python, usado para criar aplicações web
+Flask segue o estilo "microframework", ou seja, ele oferece as funcionalidades essenciais para criar uma web app e deixa você decidir os outros componentes que você quer adicionar (como banco de dados, autenticação, etc.)
